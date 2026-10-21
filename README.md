@@ -4,9 +4,13 @@ Public home for open-source projects maintained by [TDgroupHK](https://github.co
 
 ## 当前状态 / Status
 
-本仓库刚刚初始化，用于陆续发布可独立使用的工具、示例与项目。目前仅包含仓库说明、许可证和忽略配置，尚无已发布的软件模块。
+本仓库处于初始化阶段，用于陆续发布可独立使用的工具、示例与项目。目前包含仓库说明、许可证、忽略配置和维护记录，尚无已发布的软件模块。
 
-This repository is newly initialized. It will host standalone tools, examples, and projects as they become ready for public release. No software modules have been released here yet.
+This repository is in its initial setup stage. It contains documentation, a license, ignore rules, and a maintenance log. It will host standalone tools, examples, and projects as they become ready for public release. No software modules have been released here yet.
+
+维护记录与验证结果见 [MAINTENANCE.md](MAINTENANCE.md)。
+
+See [MAINTENANCE.md](MAINTENANCE.md) for maintenance activities and verification results.
 
 ## 项目 / Projects
 
